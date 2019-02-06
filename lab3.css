@@ -1,0 +1,12 @@
+#container{
+	background-color: white;
+	height: 100px;
+	width: 400px;
+	text-align: center;
+}
+button{
+	margin: 25px 1px 25px 1px;
+	border-style: none;
+	padding: 15px 25px 15px 25px;
+	color: white;
+}
